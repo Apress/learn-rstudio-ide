@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550578733559.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3576350291",
+    "id" : "3758917B",
+    "lastKnownWriteTime" : 1550677311,
+    "last_content_update" : 1550677311103,
+    "path" : "~/Dropbox/business/projects/rstudio_ide_quick_reference/code/life_expectancy/r_tutorial.R",
+    "project_path" : "r_tutorial.R",
+    "properties" : {
+        "cursorPosition" : "99,6",
+        "scrollLine" : "90",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

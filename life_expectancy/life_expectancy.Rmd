@@ -1,0 +1,55 @@
+---
+title: "Life Expectancy"
+author: "Matthew Campbell"
+date: "1/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+[Life expectancy data](https://catalog.data.gov/dataset/age-adjusted-death-rates-and-life-expectancy-at-birth-all-races-both-sexes-united-sta-1900) was downloaded from data.gov. This dataset contains death rates and life-expectancy statistics from 1900 to 2015. Exploratory analysis was conducted on this dataset.
+
+```{r get_data}
+
+source("process_data.R")
+
+summary(expectancy)
+
+```
+
+## Expectancy Dataset Sample
+
+Below you will find a widget that you may use to few the contents of the data expectancy dataset. This is the dataset that will be explored later on in this analysis.
+
+```{r}
+
+library(DT)
+
+datatable(expectancy, 
+          options = list(pageLength = 5))
+
+```
+
+## Life Expectancy Plot
+
+The plot below shows life expectancy by year for all sexes.
+
+```{r echo=FALSE, message=FALSE}
+
+library(plotly)
+
+i_plot <- 
+  expectancy %>% 
+  filter(race == "All Races") %>% 
+  ggplot(aes(year, life_expectancy)) +
+  geom_line(aes(color = sex))
+
+ggplotly(i_plot)
+
+```
+
+As you can see, life expectancy rises for everyone from 1900 to 2015. Women have a higher life expectancy than men and both groups follow the same upward trend while maintaining a difference between the two groups.

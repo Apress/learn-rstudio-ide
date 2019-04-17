@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550612450949.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "46116944",
+    "id" : "DDCDE1D5",
+    "lastKnownWriteTime" : 1550093987,
+    "last_content_update" : 1550093987,
+    "path" : "~/Dropbox/business/projects/rstudio_ide_quick_reference/code/life_expectancy/process_data.R",
+    "project_path" : "process_data.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

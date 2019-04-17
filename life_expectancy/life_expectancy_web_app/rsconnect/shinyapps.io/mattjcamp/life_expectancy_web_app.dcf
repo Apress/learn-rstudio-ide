@@ -1,0 +1,12 @@
+name: life_expectancy_web_app
+title: life_expectancy_web_app
+username:
+account: mattjcamp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 675799
+bundleId: 1846751
+url: https://mattjcamp.shinyapps.io/life_expectancy_web_app/
+when: 1548882521.9196
+asMultiple: FALSE
+asStatic: FALSE

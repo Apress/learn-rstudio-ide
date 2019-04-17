@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550606415196.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3875023926",
+    "id" : "57557AE5",
+    "lastKnownWriteTime" : 1547812369,
+    "last_content_update" : 1547812369,
+    "path" : "~/Dropbox/business/projects/rstudio_ide_quick_reference/code/life_expectancy/tidyverse.R",
+    "project_path" : "tidyverse.R",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551107075745.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2324273968",
+    "id" : "7847887D",
+    "lastKnownWriteTime" : 1549895961,
+    "last_content_update" : 1549895961,
+    "path" : "~/Dropbox/business/projects/rstudio_ide_quick_reference/code/life/import_data.R",
+    "project_path" : "import_data.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
